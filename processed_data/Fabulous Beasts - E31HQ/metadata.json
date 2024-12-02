@@ -1,0 +1,15 @@
+{
+  "fps": 25,
+  "frame_groups": 3,
+  "x_res": 224,
+  "y_res": 126,
+  "total_frames": 9921,
+  "chunk_count": 169,
+  "audio_segments": [
+    {
+      "start_time": 0,
+      "duration": 396.888,
+      "path": "Episode 31 - Fabulous BeastsAudio.mp3"
+    }
+  ]
+}
